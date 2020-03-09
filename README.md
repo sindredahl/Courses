@@ -9,3 +9,4 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Course 6 - Data Analysis with Python
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Course 7 - Data Visualization with Python](https://github.com/sindredahl/Courses/tree/master/IBM%20Data%20Science/Course%207%20-%20Data%20Visualization%20with%20Python)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Course 8 - Machine Learning with Python](https://github.com/sindredahl/Courses/tree/master/IBM%20Data%20Science/Course%208%20-%20Machine%20Learning%20with%20Python)
+$$$$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Course 9 - Applied Data Science Capstone](https://github.com/sindredahl/Courses/tree/master/IBM%20Data%20Science/Course%209%20-%20Applied%20Data%20Science%20Capstone)
