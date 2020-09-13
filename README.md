@@ -14,4 +14,4 @@
 
 ## Advanced Data Science with IBM Specialization
 #### [Coursera Website](https://www.coursera.org/specializations/advanced-data-science-ibm)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Course 1 - Fundamentals of Scalable Data Science
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Course 1 - Fundamentals of Scalable Data Science](https://github.com/sindredahl/Courses/tree/master/IBM%20Advanced%20Data%20Science/Course%201%20-%20Fundamentals%20of%20Scalable%20Data%20Science)
